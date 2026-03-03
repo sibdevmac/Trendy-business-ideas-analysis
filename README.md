@@ -148,5 +148,3 @@ This study demonstrates how Google Trends data can be leveraged to evaluate emer
 Sibankar Saha
 
 ---
-
-⭐ If you found this project useful, consider giving it a star!
